@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "task": "wash the cups",
+      "status": false,
+      "id": 1
+    },
+    {
+      "task": "clean the house",
+      "status": false,
+      "id": 2
+    },
+    {
+      "task": "go for a walk",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
